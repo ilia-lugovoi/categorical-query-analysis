@@ -14,6 +14,7 @@
 5. Выделить контрастные тематики запросов для `desktop` и `touch`
 
 **Итоговоый дашборд:**
+
 https://datalens.ru/3dcmiy3thxban
 
 ## Используемые инструменты
@@ -89,7 +90,7 @@ https://datalens.ru/3dcmiy3thxban
 
 Готовый дашборд доступен по ссылке:
 
-[Yandex DataLens Dashboard](https://datalens.ru/3dcmiy3thxban)
+https://datalens.ru/3dcmiy3thxban
 
 В дашборде собраны основные визуализации проекта:
 
