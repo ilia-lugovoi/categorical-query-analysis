@@ -14,18 +14,13 @@
 4. Исследовать, как отличается трафик запросов в течение дня
 5. Выделить контрастные тематики запросов для `desktop` и `touch`
 
-**Итоговоый дашборд:**
+**Итоговый дашборд:**
 
 https://datalens.ru/3dcmiy3thxban
 
 ## Используемые инструменты
 
-- `Python`
-- `pandas`
-- `pandasql.sqldf`
-- `matplotlib`
-- `Jupyter Notebook`
-- `Yandex DataLens`
+Python, pandas, pandasql.sqldf, matplotlib, DataLens
 
 ## Структура проекта
 
